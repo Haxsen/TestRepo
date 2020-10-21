@@ -1,2 +1,2 @@
 # TestRepo
-A Repository for GitHub testing.
+A Repository which was mainly made for GitHub pages and wikis testing.
